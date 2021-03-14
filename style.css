@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  overflow-x: hidden;
+  overflow: hidden;
   font-family: "Kumbh Sans";
   background-color: hsl(185, 75%, 39%);
   height: 100vh;
