@@ -5,9 +5,7 @@ html {
   height: 100vh;
 }
 
-*,
-*::before,
-*::after {
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
